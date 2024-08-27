@@ -65,3 +65,101 @@ nav ul li a:hover{
 .hero-button:hover{
     background-color: #000;
 }
+.sec-2{
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 12vw;
+}
+.sec-2-left{
+    width: 24vw;
+}
+.title-desc{
+    padding-bottom: 2vh;
+}
+.sec-2-left h2{
+    padding-bottom: 4vh;
+}
+.sec-2-title{
+    font-size: 22px;
+    padding-bottom: 2vh;
+    font-weight: bold;
+}
+.title-desc p:last-child{
+    line-height: 28px;
+    font-size: 16px;
+}
+.sec-2-right{
+    width: 44vw;
+}
+.sec-2-right img{
+    width: 70%;
+    height: auto;
+
+}
+.sec-2-links{
+    display: flex;
+    justify-content: center;
+    gap: 4vw;
+}
+.sec-2-links a{
+    color: #387ed1;
+    text-decoration: none;
+    font-weight: bold;
+}
+.link{
+    text-decoration: none;
+    color: #387ed1;
+    font-weight: bold;
+}
+.press-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+}
+.sec-4{
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 12vw;
+    align-items: center;
+}
+.sec-4-child-1{
+    width: 36vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    padding-bottom: 2vh;
+}
+.sec-4-title{
+    font-size: 36px;
+    font-weight: bold;
+    padding-bottom: 4vw;
+}
+.sec-4-child-2,
+.sec-4-child-3,
+.sec-4-child-4{
+    display: flex;
+    width: 12vw;
+    align-items: center;
+}
+.sec-4-child-2 img,
+.sec-4-child-3 img,
+.sec-4-child-4 img{
+        width: 54%;
+        align-self: flex-end;
+}  
+.sec-4-child-2 p,
+.sec-4-child-3 p,
+ .sec-4-child-4 p{
+           align-self: center;
+           font-size: 12px;
+}  
+.sec-4-child-1 a{
+    text-decoration: none;
+    margin-top: 2vh;
+    padding-top: 2vh;
+    padding-bottom: 2vw;
+    margin-bottom: 2vh;
+    color: #387ed1;
+    font-weight: bold;
+}
