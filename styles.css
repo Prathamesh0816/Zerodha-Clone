@@ -153,7 +153,10 @@ nav ul li a:hover{
  .sec-4-child-4 p{
            align-self: center;
            font-size: 12px;
-}  
+} 
+.sec-4-child-1 p{
+    padding-bottom: 2vh;
+} 
 .sec-4-child-1 a{
     text-decoration: none;
     margin-top: 2vh;
